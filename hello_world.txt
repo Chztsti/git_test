@@ -1,3 +1,5 @@
 Hello world?
 Trying out some more functions. When do I stage (git add)?
 I add the above line before adding/staging and this line was added after. 
+That registered as two separate things: 'changes to be commited' and 'changes not staged for commit'. 
+Now, I added/staged the file again and commited, then edited it again to explain it here, and now i'll add it again. 

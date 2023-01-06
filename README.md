@@ -1,2 +1,3 @@
 # git_test
-Testing git
+Testing git and github.
+Testing commit for first repo.
